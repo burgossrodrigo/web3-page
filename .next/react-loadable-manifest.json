@@ -1,0 +1,3914 @@
+{
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "@portis/web3": [
+    {
+      "id": "./node_modules/@portis/web3/umd/index.js",
+      "file": "static/chunks/8.js"
+    }
+  ],
+  "@toruslabs/torus-embed": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/arrayLikeToArray.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/asyncToGenerator.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/classCallCheck.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/construct.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/createClass.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/defineProperty.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/get.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inherits.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/isNativeFunction.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/isNativeReflectConstruct.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/iterableToArray.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/nonIterableSpread.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/objectWithoutProperties.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/setPrototypeOf.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/superPropBase.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/toConsumableArray.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/wrapNativeSuper.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/regenerator/index.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@chaitanyapotti/random-id/index.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@toruslabs/torus-embed/dist/torus.cjs.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/deepmerge/dist/cjs.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/loglevel/lib/loglevel.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/regenerator-runtime/runtime.js",
+      "file": "static/chunks/7.js"
+    }
+  ],
+  "@walletconnect/web3-provider": [
+    {
+      "id": "./node_modules/@walletconnect/browser-utils/dist/esm/browser.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/browser-utils/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/browser-utils/dist/esm/json.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/browser-utils/dist/esm/local.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/browser-utils/dist/esm/mobile.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/browser-utils/dist/esm/registry.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/client/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/core/dist/esm/errors.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/core/dist/esm/events.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/core/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/core/dist/esm/storage.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/core/dist/esm/url.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/browser/aes.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/browser/hmac.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/browser/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/browser/sha2.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/constants/default.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/constants/encoding.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/constants/error.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/constants/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/constants/length.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/constants/operations.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/helpers/env.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/helpers/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/helpers/pkcs7.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/helpers/types.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/helpers/validators.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/crypto/dist/esm/lib/browser.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/encoding/dist/cjs/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/environment/dist/cjs/crypto.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/environment/dist/cjs/env.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/environment/dist/cjs/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/http-connection/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/http-connection/node_modules/eventemitter3/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/iso-crypto/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-types/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-types/dist/esm/jsonrpc.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-types/dist/esm/misc.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-types/dist/esm/provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-types/dist/esm/validator.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-utils/dist/esm/constants.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-utils/dist/esm/env.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-utils/dist/esm/error.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-utils/dist/esm/format.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-utils/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-utils/dist/esm/routing.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-utils/dist/esm/types.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-utils/dist/esm/url.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/jsonrpc-utils/dist/esm/validators.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/qrcode-modal/dist/cjs/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/randombytes/dist/esm/browser/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/safe-json/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/socket-transport/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/socket-transport/dist/esm/network.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/socket-transport/node_modules/ws/browser.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/dist/esm/constants.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/dist/esm/encoding.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/dist/esm/ethereum.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/dist/esm/misc.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/dist/esm/payload.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/dist/esm/session.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/dist/esm/url.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/dist/esm/validators.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/node_modules/bn.js/lib/bn.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/node_modules/js-sha3/src/sha3.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/node_modules/query-string/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/utils/node_modules/strict-uri-encode/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/dist/esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/asyncify.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/eachLimit.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/eachOf.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/eachOfLimit.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/eachSeries.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/breakLoop.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/doLimit.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/doParallel.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/eachOfLimit.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/getIterator.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/initialParams.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/iterator.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/map.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/once.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/onlyOnce.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/setImmediate.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/slice.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/withoutIndex.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/wrapAsync.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/map.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/eth-json-rpc-middleware/block-cache.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/eth-json-rpc-middleware/cache-utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/json-rpc-engine/src/createAsyncMiddleware.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/subproviders/cache.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/subproviders/json-rpc-engine-middleware.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/subproviders/subprovider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/util/create-payload.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/util/random-id.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/util/rpc-cache-utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/util/stoplight.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/window-getters/dist/cjs/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/window-metadata/dist/cjs/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/builtin-status-codes/browser.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/cookiejar/cookiejar.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/detect-browser/es/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": 16,
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/copy-to-clipboard/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/decode-uri-component/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/dijkstrajs/dijkstra.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/https-browserify/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/is-typedarray/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/os-browserify/browser.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/preact/compat/dist/compat.module.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/preact/dist/preact.module.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/preact/hooks/dist/hooks.module.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/browser.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/can-promise.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/alignment-pattern.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/alphanumeric-data.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/bit-buffer.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/bit-matrix.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/byte-data.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/error-correction-code.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/error-correction-level.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/finder-pattern.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/format-info.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/galois-field.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/kanji-data.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/mask-pattern.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/mode.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/numeric-data.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/polynomial.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/qrcode.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/reed-solomon-encoder.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/regex.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/segments.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/version-check.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/core/version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/renderer/canvas.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/renderer/svg-tag.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/renderer/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/lib/utils/typedarray-buffer.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qrcode/node_modules/isarray/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/split-on-first/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/lib/capability.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/lib/request.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/lib/response.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/isarray/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/readable-stream/lib/_stream_duplex.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/readable-stream/lib/_stream_passthrough.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/readable-stream/lib/_stream_readable.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/readable-stream/lib/_stream_transform.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/readable-stream/lib/_stream_writable.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/readable-stream/lib/internal/streams/BufferList.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/readable-stream/lib/internal/streams/destroy.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/readable-stream/lib/internal/streams/stream-browser.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/readable-stream/readable-browser.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/stream-http/node_modules/safe-buffer/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/toggle-selection/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/typedarray-to-buffer/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/xhr2-cookies/dist/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/xhr2-cookies/dist/xml-http-request.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": 17,
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": 18,
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@metamask/safe-event-emitter/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/internal/parallel.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/parallel.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/async/waterfall.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/subproviders/filters.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/subproviders/fixture.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/subproviders/hooked-wallet.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/subproviders/nonce-tracker.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/subproviders/subscriptions.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@walletconnect/web3-provider/node_modules/web3-provider-engine/util/estimate-gas.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/Mutex.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/Semaphore.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/withTimeout.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/base-filter-history.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/base-filter.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/block-filter.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/getBlocksForRange.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/hexUtils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/log-filter.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/node_modules/eth-json-rpc-middleware/node_modules/json-rpc-engine/src/createScaffoldMiddleware.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/node_modules/eth-json-rpc-middleware/scaffold.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/node_modules/pify/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/subscriptionManager.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/tx-filter.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/eth-sig-util/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/lib/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/account.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/bytes.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/constants.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/hash.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/object.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/secp256k1v3-adapter.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/secp256k1v3-lib/der.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/secp256k1v3-lib/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/signature.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/rlp/dist/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/fast-safe-stringify/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/JsonRpcEngine.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/createAsyncMiddleware.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/createScaffoldMiddleware.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/getUniqueId.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/idRemapMiddleware.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/mergeMiddleware.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/classes.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/error-constants.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/errors.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/semaphore/lib/semaphore.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/to-arraybuffer/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/xhr2-cookies/dist/errors.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/xhr2-cookies/dist/progress-event.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/xhr2-cookies/dist/xml-http-request-event-target.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/xhr2-cookies/dist/xml-http-request-upload.js",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "authereum": [
+    {
+      "id": "./node_modules/@metamask/safe-event-emitter/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/Mutex.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/Semaphore.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/withTimeout.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async/asyncify.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async/internal/awaitify.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async/internal/initialParams.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async/internal/once.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async/internal/onlyOnce.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async/internal/setImmediate.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async/internal/wrapAsync.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/async/waterfall.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/dist/AuthereumProvider.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/dist/AuthereumSDK.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/base-filter-history.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/base-filter.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/block-filter.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/getBlocksForRange.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/hexUtils.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/log-filter.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/node_modules/pify/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/tx-filter.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethjs-unit/lib/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethjs-unit/node_modules/bn.js/lib/bn.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/JsonRpcEngine.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/createAsyncMiddleware.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/createScaffoldMiddleware.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/mergeMiddleware.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/classes.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/error-constants.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/errors.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/utils.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/number-to-bn/node_modules/bn.js/lib/bn.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/number-to-bn/src/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/pify/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/underscore/underscore.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-provider-engine/subproviders/filters.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-utils/node_modules/bn.js/lib/bn.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-utils/src/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-utils/src/utils.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": 21,
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/dist/AuthereumSigner.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/dist/StarkWareProvider.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/dist/ZkSyncProvider.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/dist/config.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/dist/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/dist/utils.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/dist/version.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/authereum/node_modules/bn.js/lib/bn.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-errors/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-errors/src/classes.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-errors/src/errorCodes.json",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-errors/src/errorValues.json",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-errors/src/errors.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-errors/src/utils.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/node_modules/eth-json-rpc-middleware/node_modules/json-rpc-engine/src/createScaffoldMiddleware.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/node_modules/eth-json-rpc-middleware/scaffold.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/subscriptionManager.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-lib/lib/hash.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eth-sig-util/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereum-checksum-address/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereum-private-key-to-address/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereum-private-key-to-public-key/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereum-public-key-to-address/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/lib/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/account.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/bytes.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/constants.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/hash.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/object.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/secp256k1v3-adapter.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/secp256k1v3-lib/der.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/secp256k1v3-lib/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/ethereumjs-util/dist/signature.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-abi/node_modules/rlp/dist/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/eventemitter3/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/fast-safe-stringify/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/global/window.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/is-buffer/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/is-function/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/getUniqueId.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/idRemapMiddleware.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/keccak256/dist/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/normalize-hex/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/parse-headers/parse-headers.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/connectCallReceiver.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/connectCallSender.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/connectToChild.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/connectToParent.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/constants.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/createDestructor.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/createLogger.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/errorCodes.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/errorSerialization.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/generateId.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/getOriginFromSrc.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/penpal/lib/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/randomhex/src/browser.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/randomhex/src/crypto.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/randomhex/src/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/semaphore/lib/semaphore.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/to-hex/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/utf8/utf8.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/build/lib/uuidv4.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/bytesToUuid.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/md5.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/rng.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/sha1.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/v1.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/v3.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/v35.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/v4.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/uuidv4/node_modules/uuid/dist/esm-browser/v5.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-provider-engine/node_modules/async/internal/parallel.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-provider-engine/node_modules/async/parallel.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-provider-engine/node_modules/async/waterfall.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-provider-engine/subproviders/hooked-wallet.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-provider-engine/subproviders/rpc.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-provider-engine/subproviders/subscriptions.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-provider-engine/util/estimate-gas.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/web3-utils/src/soliditySha3.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/xhr/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": 22,
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "eth-lattice-keyring": [
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/_version.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/abi-coder.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/abstract-coder.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/address.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/anonymous.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/array.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/boolean.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/bytes.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/fixed-bytes.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/null.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/number.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/string.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/tuple.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/fragments.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/interface.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/contracts/lib.esm/_version.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/contracts/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hdnode/lib.esm/_version.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hdnode/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/_version.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/crowdsale.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/inspect.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/keystore.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/utils.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/node_modules/scrypt-js/scrypt.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/pbkdf2/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/pbkdf2/lib.esm/pbkdf2.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/solidity/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wallet/lib.esm/_version.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wallet/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/_version.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-cz.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-en.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-es.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-fr.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-it.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-ja.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-ko.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-zh.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/wordlist.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/wordlists.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/aes-js/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/base-x/src/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/and.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/nand.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/nor.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/not.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/or.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/reduce-and.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/reduce-nand.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/reduce-nor.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/reduce-or.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/reduce-xnor.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/reduce-xor.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/to-boolean.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/to-string.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/xnor.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/bits/xor.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/and.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/create.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/modify.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/nand.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/nor.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/not.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/or.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/read-int.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/read-u-int.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/read.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/xnor.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/buffer/xor.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/byte/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/byte/read.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/byte/write.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/integer/get-bit.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/integer/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/integer/set-bit.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/integer/toggle-bit.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/nibble/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/nibble/read.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/nibble/write.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/string/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/string/to-bits.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bitwise/esm/utilities.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/borc/src/constants.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/borc/src/decoder.asm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/borc/src/decoder.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/borc/src/diagnose.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/borc/src/encoder.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/borc/src/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/borc/src/simple.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/borc/src/tagged.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/borc/src/utils.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bs58/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bs58check/base.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/bs58check/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/component-emitter/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/_version.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/alchemy-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/base-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/cloudflare-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/etherscan-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/fallback-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/formatter.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/infura-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/ipc-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/json-rpc-batch-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/json-rpc-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/nodesmith-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/pocket-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/url-json-rpc-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/web3-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/websocket-provider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/lib.esm/ws.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/providers/node_modules/bech32/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/units/lib.esm/_version.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/@ethersproject/units/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/aes-js/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/bech32/dist/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/dist/fake.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/dist/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/dist/transaction.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/account.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/bytes.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/constants.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/hash.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/object.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/secp256k1v3-adapter.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/secp256k1v3-lib/der.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/secp256k1v3-lib/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/dist/signature.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/account.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/address.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/bytes.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/constants.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/externals.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/hash.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/helpers.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/object.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/signature.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/dist.browser/types.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethereumjs-util/node_modules/bn.js/lib/bn.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethers/lib.esm/_version.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethers/lib.esm/ethers.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethers/lib.esm/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/ethers/lib.esm/utils.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/gridplus-sdk/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/gridplus-sdk/node_modules/rlp-browser/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/gridplus-sdk/src/bitcoin.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/gridplus-sdk/src/client.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/gridplus-sdk/src/constants.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/gridplus-sdk/src/ethereum.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/gridplus-sdk/src/ethereumAbi.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/gridplus-sdk/src/util.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/js-sha3/src/sha3.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/rlp/dist/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/secp256k1/elliptic.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/secp256k1/lib/elliptic.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/eth-lattice-keyring/node_modules/secp256k1/lib/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/chains/goerli.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/chains/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/chains/kovan.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/chains/mainnet.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/chains/rinkeby.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/chains/ropsten.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/byzantium.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/chainstart.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/constantinople.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/dao.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/homestead.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/istanbul.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/muirGlacier.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/petersburg.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/spuriousDragon.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/hardforks/tangerineWhistle.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-common/dist/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethers-eip712/dist/index.es.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/iso-url/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/iso-url/src/relative.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/iso-url/src/url-browser.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/superagent/lib/agent-base.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/superagent/lib/client.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/superagent/lib/is-object.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/superagent/lib/request-base.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/superagent/lib/response-base.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/superagent/lib/utils.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": 20,
+      "file": "static/chunks/3.js"
+    }
+  ],
+  "fortmatic": [
+    {
+      "id": "./node_modules/fortmatic/lib/fortmatic.js",
+      "file": "static/chunks/9.js"
+    }
+  ],
+  "magic-sdk": [
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/core/json-rpc.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/core/payload-transport.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/core/sdk-environment.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/core/sdk-exceptions.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/core/sdk.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/core/view-controller.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/index.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/modules/auth/index.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/modules/base-extension.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/modules/base-module.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/modules/rpc-provider/index.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/modules/user/index.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/util/base64-json.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/util/events.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/util/get-payload-id.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/util/index.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/util/promise-tools.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/util/storage.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/util/type-guards.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/util/url.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/dist/module/util/webauthn.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/eventemitter3/index.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/classes/comparator.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/classes/range.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/classes/semver.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/functions/cmp.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/functions/compare.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/functions/eq.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/functions/gt.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/functions/gte.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/functions/lt.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/functions/lte.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/functions/neq.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/functions/satisfies.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/internal/constants.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/internal/debug.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/internal/identifiers.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/internal/parse-options.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/provider/node_modules/semver/internal/re.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/types/dist/module/core/exception-types.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/types/dist/module/core/json-rpc-types.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/types/dist/module/core/message-types.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/types/dist/module/index.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@magic-sdk/types/dist/module/modules/rpc-provider-types.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/localforage-driver-memory/_bundle/umd.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/localforage/dist/localforage.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/lru-cache/index.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/magic-sdk/dist/module/iframe-controller.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/magic-sdk/dist/module/index.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/magic-sdk/dist/module/web-transport.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/yallist/iterator.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/yallist/yallist.js",
+      "file": "static/chunks/5.js"
+    }
+  ],
+  "trezor-connect": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/asyncToGenerator.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/construct.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/defineProperty.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inheritsLoose.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/isNativeFunction.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/isNativeReflectConstruct.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/setPrototypeOf.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/wrapNativeSuper.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/regenerator/index.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/regenerator-runtime/runtime.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/constants/blockchain.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/constants/device.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/constants/errors.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/constants/iframe.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/constants/index.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/constants/popup.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/constants/transport.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/constants/ui.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/data/ConnectSettings.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/iframe/builder.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/iframe/inline-styles.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/index.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/message/index.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/popup/PopupManager.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/popup/showPopupRequest.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/account.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/blockchainEvent.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/cardano.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/coinInfo.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/eos.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/ethereum.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/index.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/lisk.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/nem.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/params.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/response.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/ripple.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/stellar.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/types/tezos.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/utils/debug.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/utils/deferred.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/utils/networkUtils.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/trezor-connect/lib/webusb/button.js",
+      "file": "static/chunks/6.js"
+    }
+  ],
+  "walletlink": [
+    {
+      "id": "./node_modules/@metamask/safe-event-emitter/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/Mutex.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/Semaphore.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/async-mutex/es6/withTimeout.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/base-filter-history.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/base-filter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/block-filter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/getBlocksForRange.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/hexUtils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/log-filter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/node_modules/eth-json-rpc-middleware/node_modules/json-rpc-engine/src/createScaffoldMiddleware.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/node_modules/eth-json-rpc-middleware/scaffold.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/node_modules/pify/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/subscriptionManager.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/eth-json-rpc-filters/tx-filter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/fast-safe-stringify/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/JsonRpcEngine.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/createAsyncMiddleware.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/createScaffoldMiddleware.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/getUniqueId.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/idRemapMiddleware.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/dist/mergeMiddleware.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/classes.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/error-constants.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/errors.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json-rpc-engine/node_modules/eth-rpc-errors/dist/utils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/AsyncSubject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/BehaviorSubject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/InnerSubscriber.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/Notification.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/Observable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/Observer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/OuterSubscriber.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/ReplaySubject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/Scheduler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/Subject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/SubjectSubscription.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/Subscriber.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/Subscription.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/config.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/innerSubscribe.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/ConnectableObservable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/bindCallback.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/bindNodeCallback.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/combineLatest.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/concat.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/defer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/empty.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/forkJoin.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/from.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/fromArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/fromEvent.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/fromEventPattern.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/generate.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/iif.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/interval.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/merge.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/of.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/throwError.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/concatAll.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/groupBy.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/map.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/mergeAll.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/mergeMap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/observeOn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/refCount.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduled/scheduleArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduled/scheduleIterable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduled/scheduleObservable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduled/schedulePromise.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduled/scheduled.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/Action.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/AnimationFrameAction.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/AnimationFrameScheduler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/AsapAction.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/AsapScheduler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/AsyncAction.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/AsyncScheduler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/QueueAction.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/QueueScheduler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/VirtualTimeScheduler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/animationFrame.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/asap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/async.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/scheduler/queue.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/symbol/iterator.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/symbol/observable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/symbol/rxSubscriber.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/ArgumentOutOfRangeError.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/EmptyError.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/Immediate.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/ObjectUnsubscribedError.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/TimeoutError.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/UnsubscriptionError.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/canReportError.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/hostReportError.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/identity.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isArrayLike.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isFunction.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isInteropObservable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isIterable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isNumeric.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isObject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isObservable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isPromise.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isScheduler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/noop.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/pipe.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/subscribeTo.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/subscribeToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/subscribeToIterable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/subscribeToObservable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/subscribeToPromise.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/subscribeToResult.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/toSubscriber.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/WalletLink.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/LinkFlow.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/lib/ScopedLocalStorage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/lib/cssReset-css.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/lib/cssReset.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/provider/FilterPolyfill.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/provider/JSONRPC.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/provider/SubscriptionManager.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/provider/WalletLinkProvider.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/provider/WalletLinkSdkUI.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/provider/WalletLinkUI.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/types.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/vendor-js/eth-eip712-util/abi.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/vendor-js/eth-eip712-util/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/node_modules/bn.js/lib/bn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": 19,
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/bind-decorator/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/js-sha256/src/sha256.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/SubscribeOnObservable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/never.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/onErrorResumeNext.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/pairs.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/partition.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/race.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/range.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/timer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/using.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/observable/zip.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/audit.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/auditTime.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/buffer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/bufferCount.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/bufferTime.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/bufferToggle.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/bufferWhen.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/catchError.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/combineAll.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/combineLatest.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/concat.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/concatMap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/concatMapTo.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/count.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/debounce.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/debounceTime.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/defaultIfEmpty.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/delay.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/delayWhen.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/dematerialize.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/distinct.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/distinctUntilChanged.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/distinctUntilKeyChanged.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/elementAt.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/endWith.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/every.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/exhaust.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/exhaustMap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/expand.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/filter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/finalize.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/find.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/findIndex.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/first.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/ignoreElements.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/isEmpty.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/last.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/mapTo.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/materialize.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/max.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/merge.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/mergeMapTo.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/mergeScan.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/min.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/multicast.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/onErrorResumeNext.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/pairwise.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/partition.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/pluck.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/publish.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/publishBehavior.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/publishLast.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/publishReplay.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/race.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/reduce.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/repeat.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/repeatWhen.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/retry.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/retryWhen.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/sample.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/sampleTime.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/scan.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/sequenceEqual.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/share.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/shareReplay.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/single.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/skip.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/skipLast.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/skipUntil.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/skipWhile.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/startWith.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/subscribeOn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/switchAll.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/switchMap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/switchMapTo.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/take.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/takeLast.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/takeUntil.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/takeWhile.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/tap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/throttle.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/throttleTime.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/throwIfEmpty.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/timeInterval.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/timeout.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/timeoutWith.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/timestamp.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/toArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/window.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/windowCount.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/windowTime.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/windowToggle.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/windowWhen.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/withLatestFrom.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/zip.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/operators/zipAll.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/isDate.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/internal/util/not.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/rxjs/_esm5/operators/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/LinkDialog-css.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/LinkDialog.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/QRCode.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/Snackbar-css.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/Snackbar.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/Spinner-css.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/Spinner.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/TryExtensionLinkDialog-css.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/TryExtensionLinkDialog.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/icons/QRLogo.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/icons/globe-icon-svg.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/icons/link-icon-svg.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/components/icons/lock-icon-svg.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/connection/ClientMessage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/connection/RxWebSocket.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/connection/ServerMessage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/connection/WalletLinkConnection.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/RelayMessage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/Session.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/WalletLinkRelay.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/WalletLinkRelayAbstract.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/WalletLinkRelayEventManager.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/Web3Method.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/Web3RequestCanceledMessage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/Web3RequestMessage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/Web3Response.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/Web3ResponseMessage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/relay/aes256gcm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/util.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/vendor-js/eth-eip712-util/util.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/dist/vendor-js/qrcode-svg/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/node_modules/eth-rpc-errors/dist/classes.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/node_modules/eth-rpc-errors/dist/error-constants.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/node_modules/eth-rpc-errors/dist/errors.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/node_modules/eth-rpc-errors/dist/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/node_modules/eth-rpc-errors/dist/utils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/node_modules/preact/dist/preact.module.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/node_modules/preact/hooks/dist/hooks.module.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/walletlink/package.json",
+      "file": "static/chunks/1.js"
+    }
+  ]
+}
