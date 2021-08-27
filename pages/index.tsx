@@ -11,9 +11,8 @@ import { formatEther } from '@ethersproject/units'
 import Navigation from '../Components/Navigation'
 import Header from '../Components/Header'
 import ChainId from '../Components/ChainId'
-import Wallets from '../Components/Wallets'
 import Account from '../Components/Account'
-import useWallet from '../Components/Hooks/useWallet';
+import Image from 'next/image'
 
 import { useEagerConnect, useInactiveListener } from '../hooks'
 import {
@@ -39,18 +38,17 @@ function getLibrary(provider: any): Web3Provider {
   return library
 }
 
-const wallets = useWallet();
-
-
-
 export default function() {
 
-  return (
+  return (<>
     <Web3ReactProvider getLibrary={getLibrary}>
-      <Header {...wallets} />
-      <Wallets {...wallets} />
+      <Header />
     </Web3ReactProvider>
-  )
+    <Image width={300} height={300} src='./images/chessStart' />
+    
+    
+    
+  </>)
 }
 
 

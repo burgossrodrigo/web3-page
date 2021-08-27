@@ -102,7 +102,6 @@ const triedEager = useEagerConnect()
 
 // handle logic to connect in reaction to certain events on the injected ethereum provider, if it exists
 useInactiveListener(!triedEager || !!activatingConnector)
-if(openWallet === true){
 return (
   <>
     <hr style={{ margin: '2rem' }} />
@@ -332,8 +331,5 @@ return (
     </div>
   </>
 )
-}
-
-return(<div />)
 
 }
