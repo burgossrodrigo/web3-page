@@ -5,7 +5,7 @@
     "build": "next build && next export"
   },
   "dependencies": {
-    "@ethersproject/providers": "^5.1.2",
+    "@ethersproject/providers": "^5.4.4",
     "@ethersproject/units": "^5.1.0",
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -24,9 +24,9 @@
     "@web3-react/trezor-connector": "latest",
     "@web3-react/walletconnect-connector": "latest",
     "@web3-react/walletlink-connector": "latest",
-    "next": "^9.2.1",
-    "react": ">=17.0",
-    "react-dom": ">=16.8",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
     "typescript": "^3.7.5"
   }
 }
